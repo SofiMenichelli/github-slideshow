@@ -2,8 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"La curiosidad mato al gato"
 Use the left arrow to go back!
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
